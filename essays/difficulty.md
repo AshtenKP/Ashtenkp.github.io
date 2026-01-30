@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A reflection on TypeScript, as a beginner"
 # All dates must be YYYY-MM-DD format!
-date: 2026-19-01
+date: 2026-01-29
 published: true
 labels:
   - Engineering
