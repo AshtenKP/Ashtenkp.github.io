@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/rpg stat sheet - square.png
+image: img/rpg stats sheet - square.png
 title: "Pokemon stat sheet"
 date: 2024
 published: true
