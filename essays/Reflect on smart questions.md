@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+
 
 I have found the smart questions section on discord to be incredibly useful.
 
