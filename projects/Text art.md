@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/IMG_3352.JPG
-title: "Cotton"
+title: "Text art"
 date: 2024
 published: true
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A simple project I made using Eclispe IDE, it displays my name through text patterns."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
