@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Square - project 1.png
+image: img/rpg stat sheet - square.png
 title: "Pokemon stat sheet"
 date: 2024
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A simple project I made using Eclispe IDE, it creates stats for rpg character."
 ---
 
-<img class="img-fluid" src="../img/Rectangle - project 1.png">
+<img class="img-fluid" src="../img/rpg stat sheet - rectangle.png">
 
 Here is a snippet of the code.
 
