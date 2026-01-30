@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_3352.JPG
+image: img/Square - project 1.png
 title: "Text art"
 date: 2024
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A simple project I made using Eclispe IDE, it displays my name through text patterns."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/Rectangle - project 1.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
