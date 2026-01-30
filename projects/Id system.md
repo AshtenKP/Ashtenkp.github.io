@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Square - project 1.png
+image: img/Welcome to java - square.png
 title: "ID system"
 date: 2024
 published: true
@@ -10,6 +10,7 @@ labels:
   - Java
 summary: "A very simple project I made using Eclispe IDE, it displays a simple message."
 ---
+<img class="img-fluid" src="../img/Welcome to java - rectangle.png">
 
 This a legally distinct copy of one of the most iconic messages, as far as computers a concerned. "Hello, world"
 
