@@ -18,11 +18,15 @@ The program displays a graphic constructed using letters in a pattern.
 <hr>
 
 <pre>
-Here is a simple program to display my name.
+Here is a simple program to display my name. Each letter is constructed with a large pattern of the shape of a much larger version of the letter. Example below, for the capital letter A.
+     A
+   A   A
+  AAAAAAA
+ A       A
+           
+It was one of the first projecs I created in ICS 111. Text is something I have seen across the internet. What I have done here is very simple by camparison to many that i've seen. This small project was meant to be very simple. I would use the print function to make quite a few graphics during my time in ICS 111.
 
-It was one of the first projecs I created in ICS 111.
-
-I have seen a few programs that display text-based graphics like this. I can see the potential in using this to create those games i've seen.
+I have seen a few programs that display text-based graphics like this. I can see the potential in using this to create those games i've seen. Text-based games take heavy advantage of the text art, as displaying text is very light weight. In a way it shares the core concepts that went into the blocky pixel astectic closely associated with early games. 
 </pre>
 
 <hr>
